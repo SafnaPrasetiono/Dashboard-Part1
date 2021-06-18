@@ -17,4 +17,4 @@ Web desain dashboard ini dapat digunakan untuk project kamu dalam membuat dashbo
 
 ## Info
 
-Web desain ini masih butuh untuk dikembangkan kembali. Anda dapat berkontribusi untuk pengembangan web desain ini dengan melakukan pull-requests atau clone. Pastikan anda menggunakannya dengan bijak dan benar.
+Web desain ini masih butuh untuk dikembangkan kembali. Anda dapat berkontribusi untuk pengembangan web desain ini dengan melakukan pull-requests atau clone. Pastikan anda menggunakannya dengan baik dan bijak.
